@@ -1,0 +1,26 @@
+Nível 1:
+
+if "move foward" -> avança 1 casa para frente
+Para chegar na ovelha: move foward (2x)
+
+--------------------------------------------
+
+Nível 2:
+if "move foward" -> avança 1 casa para frente (2x)
+if "destroy block" -> destroi o bloco logo à frente e pega destroços (1x)
+
+---------------------------------------------
+
+Nível 3:
+
+if "move foward" -> avança 1 casa para frente (2x)
+if "sher" -> corta a ovelha e recolhe o resto (3x)
+if "turn right" -> vira pra direita (1x)
+if "move foward" -> avança 1 casa para frente (2x)
+if "turn left" -> vira pra left
+if "sher" -> corta a ovelha e recolhe o resto (3x)
+
+
+
+
+
